@@ -1,1 +1,4 @@
 AIZU ONLINE JUDGE http://judge.u-aizu.ac.jp/onlinejudge/
+
+$ git remote add origin git@github.com:hide5stm/aoj.git
+$ git push -u origin master
